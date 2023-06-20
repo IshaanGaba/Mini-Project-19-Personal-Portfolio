@@ -11,4 +11,4 @@
 ![ss3](https://github.com/IshaanGaba/Mini-Project-19-Personal-Portfolio/assets/122689155/0b080f6a-f21b-46ca-a783-33362b5dcf3c)
 
 
-***Note-This webiste is not responsive***
+***Note-This website is not responsive***
