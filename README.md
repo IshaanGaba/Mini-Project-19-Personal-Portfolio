@@ -8,8 +8,9 @@
 ![Screenshot ](https://github.com/IshaanGaba/Mini-Project-19-Personal-Portfolio/assets/122689155/8ea8b7fc-0437-4885-9701-b19e3c4a3087)
 
 
+![Screenshot 2023-06-21 002429](https://github.com/IshaanGaba/Mini-Project-19-Personal-Portfolio/assets/122689155/9db17649-fd4c-42c6-9e86-8b4e193a4207)
 
-![ss3](https://github.com/IshaanGaba/Mini-Project-19-Personal-Portfolio/assets/122689155/0b080f6a-f21b-46ca-a783-33362b5dcf3c)
+
 
 
 ***Note-This website is not responsive***
